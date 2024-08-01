@@ -1,1 +1,3 @@
+Azurelink:https://green-beach-0b081961e.5.azurestaticapps.net/
+
 github actions CI/CD pipeline executed
